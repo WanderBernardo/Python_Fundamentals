@@ -10,7 +10,10 @@ Each system work with different variable. For Example:
 - Personal: age, name, size, etc
 - Bank: account valor, account balance etc 
 
-### Example Practice Variable:
+![image](https://github.com/user-attachments/assets/e25f8175-18fa-46be-a2f6-bf5e7d9ed279)
+
+
+### Examples Practices Variables:
 
 ```
 # Number Variable:
@@ -59,7 +62,10 @@ Each system work with different variable. For Example:
 - CITY_NAME: Chicago, Rio de Janeiro...
 - WEEK_NAME: Sunday, Saturday...
 
-### Example Practice Constant:
+![image](https://github.com/user-attachments/assets/49a63bf3-a677-493d-b633-33ca2f073d9a)
+
+
+### Examples Practices Constants:
 
 ```
 # Mathematical Constant:
@@ -82,4 +88,3 @@ print(SPEED_OF_LIGHT)  # Output: 299792458
 PLANCK_CONSTANT = 6.62607015e-34  # in Joules per second
 print(PLANCK_CONSTANT)  # Output: 6.62607015e-34
 ```
-
