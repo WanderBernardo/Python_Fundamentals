@@ -74,3 +74,16 @@ memoryview_example = memoryview(b"Hello")
 print("Memoryview:", memoryview_example)
 
 ```
+
+### Pay Attetion
+
+When you will use some data type, the structure change.
+
+Example:
+
+01 - list_example = [1, 2, 3, "apple", "banana", "cherry"]
+02 - tuple_example = (1, 2, 3, "apple", "banana", "cherry")
+
+What's different?
+
+List type: use "[]" and tuple use "()".
