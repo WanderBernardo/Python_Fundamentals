@@ -80,3 +80,43 @@ Look, case you need seach more about: Modulo, class, etc, it will need necessary
 
 ## Command: Dir
 
+I think it explain better is demostration: How it will be in the "Excel"?
+
+![image](https://github.com/user-attachments/assets/9bc7904c-5bb5-4650-9b97-a15c5a164b96)
+
+Dir = Listing attributes and methods of a built-in, modulo object it possible receive.
+
+1 - Use ``` dir() ``` and press "Enter":
+![image](https://github.com/user-attachments/assets/9f80ef29-17b9-457f-8a1d-bdff5a42f809)
+
+2 - Use ``` dir("Specific modulo") ``` and press "Enter":
+![image](https://github.com/user-attachments/assets/d6c60f5a-1768-4770-b057-96c488d02e76)
+
+Look, case you need seach more about: Modulo, class, etc, it will need necessary first "import"(according to the examples below)
+
+### Example practice - Help:
+```
+# Listing attributes and methods of a built-in object:
+>>> dir(str)
+
+# Listing attributes and methods of a module:
+>>> import math
+>>> dir(math)
+
+# Listing attributes and methods of an instance:
+>>> class Example:
+...     def __init__(self, x):
+...         self.x = x
+...     def display(self):
+...         print(self.x)
+...
+>>> example = Example(10)
+>>> dir(example)
+
+# Using dir() without arguments:
+>>> dir()
+```
+
+## Return principal Menu
+
+https://github.com/WanderBernardo/Python_Fundamentals
