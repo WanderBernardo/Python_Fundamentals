@@ -8,3 +8,5 @@ Describe concepts of Python.
 03. Command: help and dir: https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Interactive_mode_HelpDir.md
    
 04. Constant and Variable: https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Constant_and_Variable.md
+
+05. Conventions / Good Practices: https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Conventions_GoodPractices.md
