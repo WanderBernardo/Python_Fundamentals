@@ -3,10 +3,12 @@ Describe concepts of Python.
 
 01. [Data Types](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/data_types.md)
    
-02. [Interactive mode](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Interactive_mode_HelpDir.md)
+02. [Interactive mode](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Interactive_mode_HelpDir.md)
    
-03. [Command: help and dir](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Interactive_mode_HelpDir.md)
+03. [Command: help and dir](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Interactive_mode_HelpDir.md)
    
-04. [Constant and Variable](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Constant_and_Variable.md)
+04. [Constant and Variable](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Constant_and_Variable.md)
 
-05. [Conventions / Good Practices](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Conventions_GoodPractices.md)
+05. [Conventions / Good Practices](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Conventions_GoodPractices.md)
+
+06. [Input and Print](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Input_Print.md)
