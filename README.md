@@ -15,4 +15,8 @@ Describe concepts of Python.
 
 07. [Type Conversion](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Type_Conversion.md)
 
+08. [Arithmetic Operators](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Arithmetic_Operators.md)
+
+
+
 ### Each topic above has one file "py" to train.
