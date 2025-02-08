@@ -11,7 +11,7 @@ Describe concepts of Python.
 
 05. [Conventions / Good Practices](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Conventions_GoodPractices.md)
 
-06. [Input and Print](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Input_Print.md)
+06. [Command: Input and Print](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Input_Print.md)
 
 
 ### Each topic above has one file "py" to train.
