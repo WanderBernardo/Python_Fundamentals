@@ -13,5 +13,6 @@ Describe concepts of Python.
 
 06. [Command: Input and Print](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Input_Print.md)
 
+07. [Type Conversion](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Type_Conversion.md)
 
 ### Each topic above has one file "py" to train.
