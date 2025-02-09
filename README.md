@@ -20,5 +20,6 @@ Describe concepts of Python.
 09. [Comparison Operators](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Comparison_Operators.md)
 
 10. [Assignment Operators](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Assignment_operators.md)
-11. 
+
+11. [Comparison Operators](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Comparison_Operators.md) 
 ### Each topic above has one file "py" to train.
