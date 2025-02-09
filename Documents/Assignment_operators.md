@@ -44,8 +44,6 @@ print(a) # 0.0
 
 Imagine You add R$ 10 in the account bank and your account there was R$ 20 then, total actual: R$ 30:
 
-Sure! Here's the transformation presented in a table with three columns:
-
 | Step | Description                     | Code                                |
 |------|---------------------------------|-------------------------------------|
 | 1    | Initial value of your account: R$ 20 | `Account = 20`                    |
