@@ -17,6 +17,6 @@ Describe concepts of Python.
 
 08. [Arithmetic Operators](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Arithmetic_Operators.md)
 
-
+09. [Comparison Operators](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Comparison_Operators.md)
 
 ### Each topic above has one file "py" to train.
