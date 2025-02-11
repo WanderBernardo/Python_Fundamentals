@@ -13,6 +13,14 @@ Example:
 
 Don't worried about understand the fuctions. in this moment look Indentation and Blocks.
 
+![image](https://github.com/user-attachments/assets/dfd839e6-31a9-4651-9e27-927564258ee9)
+
+![image](https://github.com/user-attachments/assets/ccfe1efd-457d-44cc-8509-a2abf0c703af)
+
+![image](https://github.com/user-attachments/assets/65ef4b66-fde7-443f-b16f-570e079c026b)
+
+
+
 ```
 # Function Definitions:
 def my_function():
