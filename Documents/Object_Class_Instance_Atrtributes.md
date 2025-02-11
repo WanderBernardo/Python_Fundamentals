@@ -111,4 +111,37 @@ print(carbonara.ingredients) # Outputs: ['spaghetti', 'eggs', 'parmesan', 'black
 
 ```
 
+### Example full:
+
+
+```
+class Recipe:
+    def __init__(self, name, ingredients):
+        self.name = name
+        self.ingredients = ingredients
+        print(f"Created recipe: {self.name} with ingredients: {', '.join(self.ingredients)}")
+
+    def cook(self):
+        return f"Cooking {self.name} with {', '.join(self.ingredients)}"
+
+    def add_ingredient(self, ingredient):
+        self.ingredients.append(ingredient)
+        print(f"Added ingredient: {ingredient}")
+        return self.ingredients
+
+    def remove_ingredient(self, ingredient):
+        self.ingredients.remove(ingredient)
+        print(f"Removed ingredient: {ingredient}")
+        return self.ingredients
+
+# Creating an instance and using methods
+carbonara = Recipe("Spaghetti Carbonara", ["spaghetti", "eggs", "bacon", "parmesan"])
+print(carbonara.cook())  # Outputs: Cooking Spaghetti Carbonara with spaghetti, eggs, bacon, parmesan
+carbonara.add_ingredient("black pepper")
+print(carbonara.cook())  # Outputs: Cooking Spaghetti Carbonara with spaghetti, eggs, bacon, parmesan, black pepper
+carbonara.remove_ingredient("bacon")
+print(carbonara.cook())  # Outputs: Cooking Spaghetti Carbonara with spaghetti, eggs, parmesan, black pepper
+
+```
+
 No Worried! Throughout the journey will be more light.
