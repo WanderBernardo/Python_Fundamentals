@@ -44,9 +44,9 @@ else:
 
 It's used for multiple conditions where you have several possibilities to consider. Example: traffic light.
 
+```
 light_color = "green"  # This can be "green", "yellow", or "red"
 
-```
 if light_color == "green":
     print("Go")
 elif light_color == "yellow":
