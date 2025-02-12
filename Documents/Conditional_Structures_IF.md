@@ -47,7 +47,7 @@ It's used for multiple conditions where you have several possibilities to consid
 
 ![image](https://github.com/user-attachments/assets/a0721860-4aa6-4956-bf3f-55dacaa01ee9)
 
-Look again, the ":" sign also goes in "elif" and "else". Do part of the structure function.
+Look again, the ":" sign also goes after conditional of the "elif. Do part of the structure function.
 
 ```
 light_color = "green"  # This can be "green", "yellow", or "red"
