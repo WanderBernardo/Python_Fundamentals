@@ -26,6 +26,7 @@ if num > 5:
 
 It's used to execute one block of code if the condition is True and another block if the condition is False.
 
+![image](https://github.com/user-attachments/assets/3e9f1faa-e5e6-43fe-bb2b-e14a3f76f854)
 
 Look, the ":" sign also goes in "else". Do part of the structure function.
 
@@ -43,6 +44,10 @@ else:
 - Three alternative or more
 
 It's used for multiple conditions where you have several possibilities to consider. Example: traffic light.
+
+![image](https://github.com/user-attachments/assets/a0721860-4aa6-4956-bf3f-55dacaa01ee9)
+
+Look again, the ":" sign also goes in "elif" and "else". Do part of the structure function.
 
 ```
 light_color = "green"  # This can be "green", "yellow", or "red"
