@@ -31,4 +31,5 @@ Describe concepts of Python.
 
 15. [Conditional Structures: IF, IF ELSE and IF ELIF ELSE](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Conditional_Structures_IF.md)
 
+16. [Repetition Structore: FOR](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Repetition_Structures_FOR.md)
 ### Each topic above has one file "py" to train in the ExamplePythonFiles Folder
