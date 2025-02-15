@@ -23,7 +23,7 @@ Describe concepts of Python.
 
 11. [Logical Operators](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Logical_Operators.md)
 
-12. [Object: Class, Instance, Attribute](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Object_Class_Instance_Atrtributes.md)
+12. [Class, Instance and Attribute](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Object_Class_Instance_Atrtributes.md)
 
 13. [Identity Operators](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Identity_Operators.md)
 
