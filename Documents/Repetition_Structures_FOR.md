@@ -20,7 +20,6 @@ a += 1
 print(a)
 ```
 
-
 **Example with "FOR":**
 
 The same example above:
@@ -46,6 +45,25 @@ for _ in range(2):
 Simple! Effort the create code.
 
 Now, you need result the next 20 number. Try to make with both code (with and Without FOR). 
+
+
+# FOR ELSE
+
+Use ELSE in the end "FOR" when need unclude a condition, case outcome not enter "FOR". Example:
+
+```
+# Checking username availability using for-else
+
+registered_users = ['alice', 'bob', 'carol', 'dave']
+new_user = 'eve'
+
+for user in registered_users:
+    if user == new_user:
+        print(f'The username "{new_user}" is already taken. Please choose another one.')
+        break
+else:
+    print(f'The username "{new_user}" is available!')
+```
 
 
 ### Other point: each class is used concepts before.
