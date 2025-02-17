@@ -33,5 +33,5 @@ Describe concepts of Python.
 
 16. [Repetition Structure: FOR](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Repetition_Structures_FOR.md)
 
-17.[Command: Range](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Command%3A%20Range.md) 
+17. [Command: Range](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Command%3A%20Range.md) 
 ### Each topic above has one file "py" to train in the ExamplePythonFiles Folder
