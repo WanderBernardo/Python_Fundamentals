@@ -28,3 +28,5 @@ for i in range(1, 10, 2):
 # Output: 1, 3, 5, 7, 9
 
 ```
+
+![image](https://github.com/user-attachments/assets/77b95c2f-8f10-4853-bbc8-fbfadc83c76a)
