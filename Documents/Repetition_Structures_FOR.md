@@ -65,5 +65,4 @@ else:
     print(f'The username "{new_user}" is available!')
 ```
 
-
 ### Other point: each class is used concepts before.
