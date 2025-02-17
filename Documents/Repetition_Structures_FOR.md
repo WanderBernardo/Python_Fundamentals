@@ -49,7 +49,9 @@ Now, you need result the next 20 number. Try to make with both code (with and Wi
 
 # FOR ELSE
 
-Use ELSE in the end "FOR" when need unclude a condition, case outcome not enter "FOR". Example:
+Use ELSE in the end "FOR" when need include a condition, case outcome not enter "FOR". Example:
+
+Case below, assesses if new user is inside of the range of the variable "registered_users". If isn't so, show "The username "{new_user}" is available!".
 
 ```
 # Checking username availability using for-else
