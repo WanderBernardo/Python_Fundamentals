@@ -36,4 +36,6 @@ Describe concepts of Python.
 17. [Command: Range](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Command%3A%20Range.md) 
 
 18. [Repetition Sturcture: WHILE](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Repetition_Structures_WHILE.md)
+
+19. [Manipulartin Strings - Part 01](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings01.md)
 ### Each topic above has one file "py" to train in the ExamplePythonFiles Folder
