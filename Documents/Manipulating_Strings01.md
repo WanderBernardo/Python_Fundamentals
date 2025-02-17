@@ -33,7 +33,7 @@ curso = "   Python "
 
 print(curso.strip())
 print(curso.lstrip())
-print(curso.rstrip())
+print(curso.rstrip())
 ```
 
 ### Separate and centralize
@@ -47,5 +47,5 @@ Screen
 curso = "Python"
 
 print(curso.center(10, "#"))
-print(".".join(curso))
+print(".".join(curso))
 ```
