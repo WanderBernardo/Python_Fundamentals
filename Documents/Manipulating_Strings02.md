@@ -111,9 +111,9 @@ PI = 3.14159
 print(f"Valor de PI: {PI:.2f}" # "Valor de PI: 3.14"
 ```
 
+
 Case you want include space before variable inform amount.
 
-PI = 3.14159
 Structure: **{"variable name":""amount of space before of space"."amount after of the dot"F}**
 
 ```
@@ -121,8 +121,9 @@ PI = 3.14159
 print(f"Valor de PI: {PI:10.2f}") # "Valor de PI:       3.14"
 ```
 
+![image](https://github.com/user-attachments/assets/6ace44db-1636-47f6-b460-ec3d2cc51222)
 
-Manipulating Strings - Part 01
+
 
 
 Now, download file and try execute code and valide differents between the codes. Change the order variable for example.
