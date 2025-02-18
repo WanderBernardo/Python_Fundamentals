@@ -10,6 +10,8 @@ In resume: Include vaiable inside of text. This way, it's possible has a text pe
 
 Placeholders in programming are special symbols or sequences that are used within strings to represent variable values that will be inserted later. They make it easier to build strings dynamically.
 
+**Pay Attetion in the structure**
+
 ### 1: Old style %
 Include % join with (s,d or f etc) to indicate variable. Example:
 
@@ -99,6 +101,8 @@ print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Ali
 
 
 
+
+Now, download file and try execute code and valide differents between the codes. Change the order variable for example.
 
 
 
