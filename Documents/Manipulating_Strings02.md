@@ -87,6 +87,8 @@ print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Ali
 
 It's similar with "Format". But, with improvements. It isn't necessary include the variable in the end of the text.
 
+Start with "f" and hability the use variable in the text.
+
 ![image](https://github.com/user-attachments/assets/8259290b-1e61-42aa-8ddd-d78b1638ca25)
 
 This way is better and normally used.
