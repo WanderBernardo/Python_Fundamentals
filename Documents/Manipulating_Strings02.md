@@ -26,7 +26,7 @@ Image above, where it would need to be name and age, it was change for "placehol
 name = "Alice"
 age = 30
 greeting = "Hello, %s! You are %d years old. Again name is %s" % (name, age, name)
-print(greeting)  # Output: Hello, Alice! You are 30 years old.
+print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Alice.
 ```
 
 **But, this way not indicate more the use. It's complex. Remenber OLD STYLE!**
@@ -40,8 +40,8 @@ It doesn't use "%s","%d"... altered for "{}". No more necessary indicate if the 
 ```
 name = "Alice"
 age = 30
-greeting = "Hello, {}! You are {} years old. Again name is {}".format(name, age, name)
-print(greeting)  # Output: Hello, Alice! You are 30 years old.
+greeting = "Hello, {}! You are {} years old. Again name is {}.".format(name, age, name)
+print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Alice.
 ```
 
 **Others standard inside of the Format:**
@@ -51,7 +51,7 @@ print(greeting)  # Output: Hello, Alice! You are 30 years old.
   name = "Alice"
   age = 30
   greeting = "Hello, {1}! You are {2} years old. Again name is {1}".format(name, age)
-  print(greeting)  # Output: Hello, Alice! You are 30 years old.
+  print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Alice.
   ```
 
 - Pass variable of way appointed. As if it were declarate variable inside text:
@@ -59,18 +59,28 @@ print(greeting)  # Output: Hello, Alice! You are 30 years old.
   name = "Alice"
   age = 30
   greeting = "Hello, {name}! You are {age} years old. Again name is {name}".format(name=name, age=age)
-  print(greeting)  # Output: Hello, Alice! You are 30 years old.
+  print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Alice.
   ```
   
--  Other possible is create a word dictionary:
+- Other possible is create a word dictionary:
   ```
   name = "Alice"
   age = 30
   greeting = "Hello, {name}! You are {age} years old. Again name is {name}".format(**pessoa)
-  print(greeting)  # Output: Hello, Alice! You are 30 years old.
+  print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Alice.
   ```
 
-### 3: 
+### 3: f-string:
+
+It's similar with "Format". But, with improvements. It isn't necessary include the variable in the end of the text.
+
+```
+name = "Alice"
+age = 30
+greeting = f"Hello, {name}! You are {age} years old. Again name is {name}."
+print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Alice.
+```
+
 
 
 
