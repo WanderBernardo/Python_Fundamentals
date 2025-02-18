@@ -13,7 +13,7 @@ Placeholders in programming are special symbols or sequences that are used withi
 ### 1: Old style %
 Include % join with (s,d or f etc) to indicate variable. Example:
 
-![image](https://github.com/user-attachments/assets/cf2a63ae-5e2a-4f71-be2b-2e3dc3d206fc)
+![image](https://github.com/user-attachments/assets/3d23d11a-4a54-4845-86e1-201df7d009eb)
 
 Image above, where it would need to be name and age, it was change for "placeholders" (%s and %d) and in the end of the phrase listed the variables.it's necessary each variable conform sequence input in the text. Other point, if in the text there is the same variable. Example: "name", need include again and in order.
 
@@ -35,7 +35,7 @@ print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Ali
 ### 2: Format
 It doesn't use "%s","%d"... altered for "{}". No more necessary indicate if the variable is string or integer. But, there is the same problem. It's necessary include variable by variable in the end pharse. Pay Attetion, with position of the variable.
 
-![image](https://github.com/user-attachments/assets/04eebe35-cc1d-4084-98aa-cb0b0152e994)
+![image](https://github.com/user-attachments/assets/ff2b0ffe-7dfe-4f93-91cc-091ffafef5c5)
 
 ```
 name = "Alice"
@@ -47,14 +47,22 @@ print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Ali
 **Others standard inside of the Format:**
 
 - Including the position of the variable. This way, isn't necessary more repet variable in the end pharse:
+
+  ![image](https://github.com/user-attachments/assets/cda58533-a53d-4b1a-b864-e5cf68a11d37)
+
   ```
   name = "Alice"
   age = 30
-  greeting = "Hello, {1}! You are {2} years old. Again name is {1}".format(name, age)
+  greeting = "Hello, {0}! You are {2} years old. Again name is {0}".format(name, age)
   print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Alice.
   ```
 
+  In this case, position start in zero (0).
+  
 - Pass variable of way appointed. As if it were declarate variable inside text:
+
+  ![image](https://github.com/user-attachments/assets/6ebb055f-df42-4931-b9c9-0745fc4442bc)
+
   ```
   name = "Alice"
   age = 30
@@ -63,6 +71,9 @@ print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Ali
   ```
   
 - Other possible is create a word dictionary:
+
+  ![image](https://github.com/user-attachments/assets/b7eedcb5-d8d3-49e6-b1d3-59d012e09235)
+
   ```
   name = "Alice"
   age = 30
@@ -73,6 +84,10 @@ print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Ali
 ### 3: f-string:
 
 It's similar with "Format". But, with improvements. It isn't necessary include the variable in the end of the text.
+
+![image](https://github.com/user-attachments/assets/8259290b-1e61-42aa-8ddd-d78b1638ca25)
+
+This way is better and normally used.
 
 ```
 name = "Alice"
