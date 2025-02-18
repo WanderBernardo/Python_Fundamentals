@@ -1,4 +1,4 @@
-# Manipulating Strings - Part 01
+# Manipulating Strings - Part 02
 
 ## Variable Interpolation
 
