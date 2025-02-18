@@ -45,3 +45,16 @@ age = 30
 
 greeting = f"Hello, {name}! You are {age} years old. Again name is {name}."
 print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Alice.
+
+
+
+# Working with decimal number
+
+# without space
+PI = 3.14159
+print(f"Valor de PI: {PI:.2f}")
+
+
+# with space
+PI = 3.14159
+print(f"Valor de PI: {PI:10.2f}")
