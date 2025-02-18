@@ -100,8 +100,29 @@ greeting = f"Hello, {name}! You are {age} years old. Again name is {name}."
 print(greeting)  # Output: Hello, Alice! You are 30 years old. Again name is Alice.
 ```
 
+### F-string to decimal number
+
+Case, you will be working with decimal number. Example: 10.2345678. But you need only two number after dot.
+
+Structure: **{"variable name":."amount after of the dot"F}**
+
+```
+PI = 3.14159
+print(f"Valor de PI: {PI:.2f}" # "Valor de PI: 3.14"
+```
+
+Case you want include space before variable inform amount.
+
+PI = 3.14159
+Structure: **{"variable name":""amount of space before of space"."amount after of the dot"F}**
+
+```
+PI = 3.14159
+print(f"Valor de PI: {PI:10.2f}") # "Valor de PI:       3.14"
+```
 
 
+Manipulating Strings - Part 01
 
 
 Now, download file and try execute code and valide differents between the codes. Change the order variable for example.
