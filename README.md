@@ -23,7 +23,7 @@ Describe concepts of Python.
 |  17. [Command: Range](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Command%3A%20Range.md)                          |    7     |
 |  18. [Repetition Sturcture: WHILE](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Repetition_Structures_WHILE.md)    |    7     |
 |  19. [Manipulating Strings - Part 01](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings01.md)      |    7     |
-|  20. [Manipulating Strings - Part 02](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings02.md)      |    7     |
+|  20. [Variable Interpolation](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings02.md)      |    7     |
 
 
 ### Each topic above has one file "py" to train in the ExamplePythonFiles Folder
