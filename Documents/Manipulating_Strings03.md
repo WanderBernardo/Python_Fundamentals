@@ -70,7 +70,7 @@ name[5:10:2] # Result: "Diana Floriano Silva"
 ```
 
 
-**Example 07:** Variable name = [::-step]
+**Example 07:** Variable name = [-start:-stop:-step]
 
 When it's included negative arguments, tools understands return it will be of the right to left inverted.
 
