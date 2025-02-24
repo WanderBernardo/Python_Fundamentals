@@ -21,8 +21,8 @@ print(curso.title())
 ### Eliminating white space
 
 - **strip:** Remove space gap of the right and left.
-- **lstrip:** Remove space gap of the right and left.
-- **rstrip:** Remove space gap of the right and left.
+- **lstrip:** Remove space gap of the left.
+- **rstrip:** Remove space gap of the right.
 
 In this case, the outcome doesn't will be see because space is invisible in the code.
 
