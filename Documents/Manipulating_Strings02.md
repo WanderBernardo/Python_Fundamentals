@@ -1,6 +1,4 @@
-# Manipulating Strings - Part 02
-
-## Variable Interpolation
+# Variable Interpolation
 
 Variable interpolation is a feature in programming where variables are directly embedded within strings, allowing for more readable and maintainable code.Instead of manually concatenating strings and variables, interpolation lets you insert variables seamlessly.
 
