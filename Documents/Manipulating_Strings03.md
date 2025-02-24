@@ -40,7 +40,7 @@ When it's included arguments "start" and "stop", tools understands it was determ
 
 ```
 name = "Diana Floriano Silva"
-name[10:] # Result: "ano Silva"
+name[5:10] # Result: "Floriano Si"
 ```
 
 **Example 04:** Variable name = [start:stop:step]
