@@ -4,7 +4,7 @@ Describe concepts of Python.
 
 | Concepts | Concepts|
 |----------|----------|
-|  01. [Data Types](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/data_types.md)                                      |21. [String Slicing](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings03.md)                                     |
+|  01. [Data Types](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/data_types.md)                                      |21. [Manipulating Strings - Part 03](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings03.md)                                     |
 |  02. [Interactive mode](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Interactive_mode_HelpDir.md)                  |    2     |
 |  03. [Command: help and dir](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Interactive_mode_HelpDir.md)             |    3     |   
 |  04. [Constant and Variable](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Constant_and_Variable.md)                |    4     |
@@ -23,7 +23,7 @@ Describe concepts of Python.
 |  17. [Command: Range](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Command%3A%20Range.md)                          |    7     |
 |  18. [Repetition Sturcture: WHILE](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Repetition_Structures_WHILE.md)    |    7     |
 |  19. [Manipulating Strings - Part 01](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings01.md)      |    7     |
-|  20. [Variable Interpolation](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings02.md)      |    7     |
+|  20. [Manipulating Strings - Part 02](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings02.md)      |    7     |
 
 
 ### Each topic above has one file "py" to train in the ExamplePythonFiles Folder
