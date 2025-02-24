@@ -6,7 +6,7 @@ It's a technique to extract part of the string (text). Doing parallel with "Exce
 
 It will become clearer with the examples.
 
-![image](https://github.com/user-attachments/assets/5da84d0b-fed6-4eb0-856a-6f06ad5ad667)
+![image](https://github.com/user-attachments/assets/98f3ea96-61e1-4d9d-b462-5a57d4dee706)
 
 **Example 01:** Variable name = [start]
 
