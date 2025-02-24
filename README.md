@@ -4,7 +4,7 @@ Describe concepts of Python.
 
 | Concepts | Concepts|
 |----------|----------|
-|  01. [Data Types](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/data_types.md)                                      |21. [Manipulating Strings - Part 03](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings03.md)                                     |
+|  01. [Data Types](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/data_types.md)                                      |21. [String Slicing](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings03.md)                                     |
 |  02. [Interactive mode](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Interactive_mode_HelpDir.md)                  |    2     |
 |  03. [Command: help and dir](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Interactive_mode_HelpDir.md)             |    3     |   
 |  04. [Constant and Variable](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Constant_and_Variable.md)                |    4     |
