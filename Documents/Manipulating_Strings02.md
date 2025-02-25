@@ -4,6 +4,12 @@ Variable interpolation is a feature in programming where variables are directly 
 
 In resume: Include vaiable inside of text. This way, it's possible has a text personalized. Example: You need send 100 letters, each a letters different person. So, this way, variable interpolation, change name, address conform parameters.
 
+
+### Documents:
+- https://docs.python.org/pt-br/3/library/string.html
+- https://docs.python.org/pt-br/3/library/stdtypes.html#textseq
+
+
 **Python makes it possible some ways:**
 
 Placeholders in programming are special symbols or sequences that are used within strings to represent variable values that will be inserted later. They make it easier to build strings dynamically.
