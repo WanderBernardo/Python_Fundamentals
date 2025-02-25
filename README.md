@@ -2,6 +2,7 @@
 Describe concepts of Python.
 
 <div align="center">
+  
 | Concepts | Concepts|
 |----------|----------|
 |  01. [Data Types](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/data_types.md)                                      |21. [Manipulating Strings - Part 03](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings03.md)                                     |
