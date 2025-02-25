@@ -8,6 +8,10 @@ It will become clearer with the examples.
 
 ![image](https://github.com/user-attachments/assets/98f3ea96-61e1-4d9d-b462-5a57d4dee706)
 
+### Documents:
+- https://docs.python.org/pt-br/3/library/string.html
+- https://docs.python.org/pt-br/3/library/stdtypes.html#textseq
+
 **Example 01:** Variable name = [start]
 
 ```
