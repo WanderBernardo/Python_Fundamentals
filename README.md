@@ -1,7 +1,7 @@
 # Python_Fundamentals
 Describe concepts of Python.
 
-
+<div align="center">
 | Concepts | Concepts|
 |----------|----------|
 |  01. [Data Types](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/data_types.md)                                      |21. [Manipulating Strings - Part 03](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings03.md)                                     |
@@ -24,6 +24,6 @@ Describe concepts of Python.
 |  18. [Repetition Sturcture: WHILE](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Repetition_Structures_WHILE.md)    |    7     |
 |  19. [Manipulating Strings - Part 01](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings01.md)      |    7     |
 |  20. [Manipulating Strings - Part 02](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings02.md)      |    7     |
-
+</div>
 
 ### Each topic above has one file "py" to train in the ExamplePythonFiles Folder
