@@ -2,6 +2,10 @@
 
 String is value declarated inside of Quotation marks ("").
 
+### Documents:
+- https://docs.python.org/pt-br/3/library/string.html
+- https://docs.python.org/pt-br/3/library/stdtypes.html#textseq
+
 ### Using Upper, Lower and title
 
 - **Upper:** Becomes string all in Uppercase. Example: PyTHon - Outcome: PYTHON
