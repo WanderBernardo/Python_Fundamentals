@@ -12,8 +12,8 @@ In this case, keep the way it is written with: space, line break, special charac
 
 
 ```
-=name = Wanderley
-= menu = f'''
+name = Wanderley
+menu = f'''
 ################ MENU of the {name} ################
 
 [1] Drinks
