@@ -9,6 +9,8 @@ It's a block of code identified by a name and can receive a list of parameters, 
 
 **1 - Without Arguments:**
 
+![image](https://github.com/user-attachments/assets/dc6cb8fb-88f8-4081-8163-09ed467797ff)
+
 ```
 def show_mensage1():
     print("Hello, World!!")
@@ -17,6 +19,8 @@ def show_mensage1():
 **2 - With Arguments:**
 
 In this case, when running the code is mandatory include arguments it. And if forget, code show error.
+
+![image](https://github.com/user-attachments/assets/ad598ddd-63a4-4924-8731-38b6b13a1a6d)
 
 ```
 def show_mensage2(name):
@@ -27,6 +31,8 @@ def show_mensage2(name):
 
 In this case, if you forget include armments when running the code, It will be used standard return.  
 
+![image](https://github.com/user-attachments/assets/18de2fae-f076-410d-a0c5-7295ef2377d4)
+
 ```
 def show_mensage3(name="Anonymous"):
     print(f"Hello {name}, World!!")
@@ -35,6 +41,8 @@ def show_mensage3(name="Anonymous"):
 ### How use the function:
 
 Very simple, type name of  function and include arguments case to be necessary.
+
+![image](https://github.com/user-attachments/assets/e7380f05-4bda-43b8-a834-b178dc6c4e5c)
 
 ```
 show_mensage1()  # Case 01
@@ -47,6 +55,8 @@ show_mensage3(name="Guilherme")  # Case 03
 
 To some programming language the functions only return one result. In Python is possible return more one.
 
+![image](https://github.com/user-attachments/assets/9d9022a6-98b4-4260-9d5b-48146b189181)
+
 ```
 def calculate_total(numbers):
     return sum(numbers)
@@ -58,13 +68,15 @@ def return_predecessor_successor(number):
     return predecessor, successor
 
 
-calculate_total([10, 20, 30]) # result 50
-return_predecessor_successor(10) # result (9, 11)
+print(calculate_total([10, 20, 30])) # result 50
+print(return_predecessor_successor(10)) # result (9, 11)
 ```
 
 **Case, it doesn't include "return" in the end of the intruction, for standard the return wil be "None". but, it can use "return None""**
 
 I executed the function without providing the required arguments.
+
+![image](https://github.com/user-attachments/assets/59281af3-5356-47d1-b9fb-ccf208d33250)
 
 ```
 def none1():
