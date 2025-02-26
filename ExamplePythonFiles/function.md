@@ -2,8 +2,7 @@
 
 It's a block of code identified by a name and can receive a list of parameters, these parameters may or may not have default values. Using functions makes code more readable and makes it possible to reuse code. Programming based on functions is the same as saying that we are programming in a structured way.
 
-![image](https://github.com/user-attachments/assets/3091d4f8-c974-4688-8a2f-9856c2b7574d)
-
+![image](https://github.com/user-attachments/assets/4d9330a2-54aa-44d0-863b-5aad2ff8a156)
 
 ### Build in three way:
 
