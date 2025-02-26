@@ -19,7 +19,7 @@ def show_mensage1():
 In this case, when running the code is mandatory include arguments it. And if forget, code show error.
 
 ```
-def show_mensage2name):
+def show_mensage2(name):
     print(f"Hello {name}, World!!")
 ```
 
