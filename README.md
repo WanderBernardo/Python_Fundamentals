@@ -8,7 +8,7 @@
 |----------|----------|
 |  01. [Data Types](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/data_types.md)                                      |21. [Manipulating Strings - Part 03](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings03.md)                                     |
 |  02. [Interactive mode](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Interactive_mode_HelpDir.md)                  |22. [Manipulating Strings - Part 04](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Manipulating_Strings04.md)     |
-|  03. [Command: help and dir](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Interactive_mode_HelpDir.md)             | [Function](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/function.md)    |   
+|  03. [Command: help and dir](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Interactive_mode_HelpDir.md)             | 23. [Function](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/function.md)    |   
 |  04. [Constant and Variable](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Constant_and_Variable.md)                |    4     |
 |  05. [Conventions / Good Practices](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Conventions_GoodPractices.md)     |    5     |
 |  06. [Command: Input and Print](https://github.com/WanderBernardo/Python_Fundamentals/blob/main/Documents/Input_Print.md)                       |    6     |
