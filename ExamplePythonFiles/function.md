@@ -10,8 +10,8 @@ It's a block of code identified by a name and can receive a list of parameters, 
 **1 - Without Arguments:**
 
 ```
-def show_mensage1()
-    print(Hello, World!!)
+def show_mensage1():
+    print("Hello, World!!")
 ```
 
 **2 - With Arguments:**
@@ -19,8 +19,8 @@ def show_mensage1()
 In this case, when running the code is mandatory include arguments it. And if forget, code show error.
 
 ```
-def show_mensage2name)
-    print(f"Hello {name}, World!!)
+def show_mensage2name):
+    print(f"Hello {name}, World!!")
 ```
 
 **3 - With Arguments and return standard:**
@@ -28,8 +28,8 @@ def show_mensage2name)
 In this case, if you forget include armments when running the code, It will be used standard return.  
 
 ```
-def show_mensage3(name="Anonymous")
-    print(f"Hello {name}, World!!)
+def show_mensage3(name="Anonymous"):
+    print(f"Hello {name}, World!!")
 ```
 
 ### How use the function:
@@ -48,10 +48,10 @@ show_mensage3(name="Guilherme")  # Case 03
 To some programming language the functions only return one result. In Python is possible return more one.
 
 ```
-def calculate_total(numbers)
+def calculate_total(numbers):
     return sum(numbers)
 
-def return_predecessor_successor(number)
+def return_predecessor_successor(number):
     predecessor = number - 1
     successor = number + 1
 
@@ -67,13 +67,13 @@ return_predecessor_successor(10) # result (9, 11)
 I executed the function without providing the required arguments.
 
 ```
-def none1()
-    print(Hello, World!!)
+def none1():
+    print("Hello, World!!")
 
 # OR
 
-def none2()
-    print(Hello, World!!)
+def none2():
+    print("Hello, World!!")
 
     return None
 
