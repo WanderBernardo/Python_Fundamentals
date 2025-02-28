@@ -25,12 +25,23 @@ save_car("Palio","Fiat",1999,"ABC-1234")
 
 Compare with case above.
 
-#### 1 - Calling the function including the set: key and values:
+#### 2 - Calling the function including the set: key and values:
 
-In this case, there is benefit. Because if change order of the arguments Python understand and identifies order correct and aplly correctly. in this example: save in the database.
+- In this case, there is benefit. Because if change order of the arguments Python understand and identifies order correct and aplly correctly. in this example: save in the database.
 
-```
-save_car(brand="Fiat",model="Palio",year=1999,license_plate="ABC-1234")
-save_car(year=1999,brand="Fiat",license_plate="ABC-1234",model="Palio")
-```
+- Other point is case change name of the argument python doesn't find need change both locate: in function declaration and call.
 
+    ```
+    save_car(brand="Fiat",model="Palio",year=1999,license_plate="ABC-1234")
+    save_car(year=1999,brand="Fiat",license_plate="ABC-1234",modelXXXXX="Palio")
+    ```
+
+#### 3 - Calling the function including inside "dictionary".
+
+- In this case, there is benefit. Because if change order of the arguments Python understand and identifies order correct and aplly correctly. in this example: save in the database.
+
+- Other point is case change name of the argument python doesn't find need change both locate: in function declaration and call.
+
+    ```
+    save_car(**{year=1999,brand="Fiat",license_plate="ABC-1234",model="Palio"})
+    ```
