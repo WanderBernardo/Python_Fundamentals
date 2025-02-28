@@ -2,6 +2,9 @@
 
 It's basely you define these functions using the "def" keyword, followed by the function name, parentheses (which may include parameters), and a colon. The code block within the function is indented. Let's see examples:
 
+
+
+
 ### There are 3 ways to use Named Functions:
 
 ```
