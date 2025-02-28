@@ -5,9 +5,9 @@ It's basely you define these functions using the "def" keyword, followed by the 
 ### There are 3 ways to use Named Functions:
 
 ```
-def save_car(brand, model, year, license_plate)
+def save_car(brand, model, year, license_plate):
     # save car in the database
-    print(f' Car insert with sucess! {brand}/{model}/{year}/{license_plate})
+    print(f'Car insert with sucess! {brand}/{model}/{year}/{license_plate})
 ```
 #### 1 - Calling the function including the values ​​directly:
 
