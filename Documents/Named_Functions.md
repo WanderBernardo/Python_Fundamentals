@@ -7,7 +7,7 @@ It's basely you define these functions using the "def" keyword, followed by the 
 ```
 def save_car(brand, model, year, license_plate):
     # save car in the database
-    print(f'Car insert with sucess! {brand}/{model}/{year}/{license_plate})
+    print(f"Car insert with sucess! {brand}/{model}/{year}/{license_plate}")
 ```
 #### 1 - Calling the function including the values ​​directly:
 
@@ -42,5 +42,5 @@ Compare with case above.
 - Other point is case change name of the argument python doesn't find need change both locate: in function declaration and call.
 
     ```
-    save_car(**{year=1999,brand="Fiat",license_plate="ABC-1234",model="Palio"})
+save_car(**{"year"=1999,brand="Fiat",license_plate="ABC-1234",model="Palio"})
     ```
