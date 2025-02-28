@@ -42,5 +42,5 @@ Compare with case above.
 - Other point is case change name of the argument python doesn't find need change both locate: in function declaration and call.
 
     ```
-save_car(**{"year"=1999,brand="Fiat",license_plate="ABC-1234",model="Palio"})
+    save_car(**{"year":1999,brand:"Fiat",license_plate:"ABC-1234",model:"Palio"})
     ```
