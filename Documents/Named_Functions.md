@@ -33,7 +33,6 @@ Compare with case above.
 
     ```
     save_car(brand="Fiat",model="Palio",year=1999,license_plate="ABC-1234")
-    save_car(year=1999,brand="Fiat",license_plate="ABC-1234",modelXXXXX="Palio")
     ```
 
 #### 3 - Calling the function including inside "dictionary".
