@@ -2,8 +2,7 @@
 
 It's basely you define these functions using the "def" keyword, followed by the function name, parentheses (which may include parameters), and a colon. The code block within the function is indented. Let's see examples:
 
-
-
+![image](https://github.com/user-attachments/assets/901cd4a3-e132-4c88-9e57-8e7cb15bc80e)
 
 ### There are 3 ways to use Named Functions:
 
