@@ -34,7 +34,7 @@ def save_car(brand, * ,model,year, license_plate):
 save_car("Fiat",model="Palio",year=1999,license_plate="ABC-1234")
 ```
 
-### 2 - Positional with Named Only (Keyword Olny) together
+### 3 - Positional with Named Only (Keyword Olny) together
 
 In this case, use " / " all before and " * " all after.
 
