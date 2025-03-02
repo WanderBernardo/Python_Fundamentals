@@ -10,6 +10,8 @@ In this case, use "/" and all before "/", mandatory to be positional
 
 Exeample:
 
+![image](https://github.com/user-attachments/assets/494de31c-e8f8-4f96-9cb6-dd5bf89c07be)
+
 ```
 def save_car(brand, model, /, year, license_plate):
     # save car in the database
@@ -26,6 +28,8 @@ In this case, use " * " and all after " * ", mandatory to be named.
 
 Exeample:
 
+![image](https://github.com/user-attachments/assets/c7902385-9557-4269-b2a3-6fca154f44ef)
+
 ```
 def save_car(brand, * ,model,year, license_plate):
     # save car in the database
@@ -41,6 +45,8 @@ In this case, use " / " all before and " * " all after.
 ![image](https://github.com/user-attachments/assets/a1b842f6-f50f-49d5-be7f-524695e947e8)
 
 Exeample:
+
+![image](https://github.com/user-attachments/assets/013d8f0a-65cd-4493-bd99-6d8ebd896958)
 
 ```
 def save_car(brand, / ,model, * ,year, license_plate):
